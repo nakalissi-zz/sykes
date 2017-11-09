@@ -1,0 +1,26 @@
+.jumbotron{
+  width: 560px !important;
+  margin: 20px auto;
+}
+.thumbnail{
+  transition: all .5s ease;
+}
+.badge-danger{
+  background-color: #a94442;
+}
+.badge-success{
+  background-color: #3c763d;
+}
+.badge-info{
+  background-color: #31708f;
+}
+.badge-default{
+  background: #FFFFFF;
+  border: 1px solid #777777;
+  color: #777777;
+}
+.right{
+  position: absolute;
+  right: 20px;
+  top: 7px;
+}
